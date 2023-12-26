@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Tabs",
+            "request": "launch",
+            "mainClass": "com.qa.Tabs",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Booststrap_dropDown",
+            "request": "launch",
+            "mainClass": "com.qa.id.Booststrap_dropDown",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Addition_select_class",
+            "request": "launch",
+            "mainClass": "com.qa.id.Addition_select_class",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Deselectdropdowns",
+            "request": "launch",
+            "mainClass": "com.qa.id.Deselectdropdowns",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Dropdowns",
+            "request": "launch",
+            "mainClass": "com.qa.id.Dropdowns",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Checkboxes",
+            "request": "launch",
+            "mainClass": "com.qa.id.Checkboxes",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "radioButton",
+            "request": "launch",
+            "mainClass": "com.qa.id.radioButton",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "GetText",
+            "request": "launch",
+            "mainClass": "com.qa.id.GetText",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "GetTitleGetUrl",
+            "request": "launch",
+            "mainClass": "com.qa.id.GetTitleGetUrl",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "BrowersOptions",
+            "request": "launch",
+            "mainClass": "com.BrowersOptions",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "com.qa.id.App",
+            "projectName": "demoapp"
+        },
+        {
+            "type": "java",
+            "name": "Locators",
+            "request": "launch",
+            "mainClass": "com.qa.id.Locators",
+            "projectName": "demoapp"
+        }
+    ]
+}
